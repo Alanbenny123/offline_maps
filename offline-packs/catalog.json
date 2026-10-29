@@ -1,0 +1,185 @@
+{
+  "schema": 1,
+  "packs": [
+    {
+      "id": "andaman-and-nicobar-islands",
+      "name": "Andaman and Nicobar Islands",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/andaman-and-nicobar-islands-20261027.zip"
+    },
+    {
+      "id": "andhra-pradesh",
+      "name": "Andhra Pradesh",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/andhra-pradesh-20261027.zip"
+    },
+    {
+      "id": "arunachal-pradesh",
+      "name": "Arunachal Pradesh",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/arunachal-pradesh-20261027.zip"
+    },
+    {
+      "id": "assam",
+      "name": "Assam",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/assam-20261027.zip"
+    },
+    {
+      "id": "bihar",
+      "name": "Bihar",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/bihar-20261027.zip"
+    },
+    {
+      "id": "chandigarh",
+      "name": "Chandigarh",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/chandigarh-20261027.zip"
+    },
+    {
+      "id": "chhattisgarh",
+      "name": "Chhattisgarh",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/chhattisgarh-20261027.zip"
+    },
+    {
+      "id": "dadra-nagar-haveli-daman-diu",
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/dadra-nagar-haveli-daman-diu-20261027.zip"
+    },
+    {
+      "id": "delhi",
+      "name": "Delhi",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/delhi-20261027.zip"
+    },
+    {
+      "id": "goa",
+      "name": "Goa",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/goa-20261027.zip"
+    },
+    {
+      "id": "gujarat",
+      "name": "Gujarat",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/gujarat-20261027.zip"
+    },
+    {
+      "id": "haryana",
+      "name": "Haryana",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/haryana-20261027.zip"
+    },
+    {
+      "id": "himachal-pradesh",
+      "name": "Himachal Pradesh",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/himachal-pradesh-20261027.zip"
+    },
+    {
+      "id": "jammu-and-kashmir",
+      "name": "Jammu and Kashmir",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/jammu-and-kashmir-20261027.zip"
+    },
+    {
+      "id": "jharkhand",
+      "name": "Jharkhand",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/jharkhand-20261027.zip"
+    },
+    {
+      "id": "karnataka",
+      "name": "Karnataka",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/karnataka-20261027.zip"
+    },
+    {
+      "id": "kerala",
+      "name": "Kerala",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/kerala-20261027.zip"
+    },
+    {
+      "id": "ladakh",
+      "name": "Ladakh",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/ladakh-20261027.zip"
+    },
+    {
+      "id": "lakshadweep",
+      "name": "Lakshadweep",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/lakshadweep-20261027.zip"
+    },
+    {
+      "id": "madhya-pradesh",
+      "name": "Madhya Pradesh",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/madhya-pradesh-20261027.zip"
+    },
+    {
+      "id": "maharashtra",
+      "name": "Maharashtra",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/maharashtra-20261027.zip"
+    },
+    {
+      "id": "manipur",
+      "name": "Manipur",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/manipur-20261027.zip"
+    },
+    {
+      "id": "meghalaya",
+      "name": "Meghalaya",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/meghalaya-20261027.zip"
+    },
+    {
+      "id": "mizoram",
+      "name": "Mizoram",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/mizoram-20261027.zip"
+    },
+    {
+      "id": "nagaland",
+      "name": "Nagaland",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/nagaland-20261027.zip"
+    },
+    {
+      "id": "odisha",
+      "name": "Odisha",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/odisha-20261027.zip"
+    },
+    {
+      "id": "puducherry",
+      "name": "Puducherry",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/puducherry-20261027.zip"
+    },
+    {
+      "id": "punjab",
+      "name": "Punjab",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/punjab-20261027.zip"
+    },
+    {
+      "id": "rajasthan",
+      "name": "Rajasthan",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/rajasthan-20261027.zip"
+    },
+    {
+      "id": "sikkim",
+      "name": "Sikkim",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/sikkim-20261027.zip"
+    },
+    {
+      "id": "tamil-nadu",
+      "name": "Tamil Nadu",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/tamil-nadu-20261027.zip"
+    },
+    {
+      "id": "telangana",
+      "name": "Telangana",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/telangana-20261027.zip"
+    },
+    {
+      "id": "tripura",
+      "name": "Tripura",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/tripura-20261027.zip"
+    },
+    {
+      "id": "uttar-pradesh",
+      "name": "Uttar Pradesh",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/uttar-pradesh-20261027.zip"
+    },
+    {
+      "id": "uttarakhand",
+      "name": "Uttarakhand",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/uttarakhand-20261027.zip"
+    },
+    {
+      "id": "west-bengal",
+      "name": "West Bengal",
+      "url": "https://github.com/Alanbenny123/offline_maps/releases/download/offline-india-2026-10/west-bengal-20261027.zip"
+    }
+  ]
+}
